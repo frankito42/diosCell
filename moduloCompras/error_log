@@ -1,0 +1,530 @@
+[23-Oct-2022 22:34:46 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 18:04:01 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 18:12:57 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 18:31:16 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 18:45:31 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 18:49:46 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[24-Oct-2022 21:58:04 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 11:34:46 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 11:38:19 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 12:07:18 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 12:17:22 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 14:33:20 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 14:35:11 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[25-Oct-2022 19:00:38 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 09:20:49 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 17:00:44 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 17:48:13 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 20:18:28 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 20:30:19 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[26-Oct-2022 20:39:45 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 10:57:05 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 10:58:15 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 11:58:28 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 12:27:07 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 13:30:30 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 16:10:35 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[27-Oct-2022 21:44:20 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 09:18:16 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 13:15:27 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 13:17:10 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 18:55:39 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 19:25:58 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 20:08:31 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 20:13:21 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 20:34:08 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 21:43:04 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[28-Oct-2022 22:31:19 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 09:44:57 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 21:52:16 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 23:01:52 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 23:03:17 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 23:17:55 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[29-Oct-2022 23:29:24 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[30-Oct-2022 00:28:17 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[30-Oct-2022 00:50:10 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[30-Oct-2022 01:03:30 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[30-Oct-2022 01:10:21 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[30-Oct-2022 13:57:52 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 09:30:39 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 09:54:07 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 09:54:09 America/Argentina/Buenos_Aires] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/salv683/public_html/moduloCompras/newFactu.php on line 49
+[31-Oct-2022 13:02:24 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 15:40:54 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 15:58:16 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 16:29:36 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 16:47:56 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 20:58:38 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[31-Oct-2022 21:00:09 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[01-Nov-2022 10:16:56 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[01-Nov-2022 10:18:18 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[01-Nov-2022 11:33:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:33:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:34:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:35:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:35:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:35:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:35:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:36:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:40:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:41:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:41:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:46:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:47:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:47:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:47:46 America/Argentina/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/salv683/public_html/moduloCompras/newFactu.php:67) in /home/salv683/public_html/moduloCompras/newFactu.php on line 96
+[01-Nov-2022 11:48:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:49:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:50:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 11:50:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 12:15:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 12:37:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 12:37:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 13:00:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 13:01:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 14:01:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 14:03:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 14:14:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 16:27:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 16:30:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 17:00:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 17:14:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 17:16:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 19:23:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 21:50:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:25:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:38:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:47:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:53:40 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:54:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:56:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 22:59:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 23:02:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 23:14:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[01-Nov-2022 23:29:28 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 09:27:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:14:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:15:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:20:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:26:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:29:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:37:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:46:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 13:53:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 14:03:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 15:14:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 15:24:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 15:47:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 19:17:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:02:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:11:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:17:14 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:26:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:29:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:37:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:53:14 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:55:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[02-Nov-2022 23:55:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 00:02:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 08:46:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 08:48:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 09:46:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 11:29:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 16:29:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 16:31:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 18:22:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 19:08:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 19:19:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 19:20:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 23:21:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[03-Nov-2022 23:59:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:27:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:28:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:33:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:33:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:33:50 America/Argentina/Buenos_Aires] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/salv683/public_html/moduloCompras/newFactu.php on line 49
+[04-Nov-2022 08:33:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:48:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 08:53:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 09:07:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 09:10:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 09:14:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 09:15:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 09:17:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 13:23:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 13:23:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 16:55:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 16:55:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 17:12:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 17:33:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 17:35:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 17:37:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 17:48:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:08:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:16:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:20:02 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:41:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:46:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 19:56:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 20:10:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 20:11:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 22:07:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[04-Nov-2022 22:08:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 09:59:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 11:35:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 11:35:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 11:40:28 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 13:21:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 13:25:40 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 13:28:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 13:29:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 17:19:02 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 17:21:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 17:24:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:07:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:08:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:09:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:12:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:17:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 18:56:28 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 19:07:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 20:44:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 21:03:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 21:04:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 21:23:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 21:57:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 22:38:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 22:43:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[05-Nov-2022 23:24:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/salv683/public_html/moduloCompras/compras.php on line 205
+[07-Nov-2022 11:53:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 205
+[07-Nov-2022 11:53:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 205
+[07-Nov-2022 11:53:10 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 205
+[07-Nov-2022 11:54:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 205
+[07-Nov-2022 12:05:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 205
+[07-Nov-2022 12:06:02 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:13:14 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:13:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:16:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:16:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:16:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:16:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:16:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:18:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:18:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:18:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:19:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:19:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:19:10 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:20:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:21:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 12:21:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 15:37:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 15:56:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 15:56:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:05:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:05:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:09:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:09:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:13:02 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:15:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:25:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 16:38:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 17:07:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Nov-2022 17:07:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 17:33:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 17:34:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 17:34:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 17:35:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 20:24:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 21:58:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 22:00:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Nov-2022 22:00:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[11-Nov-2022 14:37:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[11-Nov-2022 14:37:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[11-Nov-2022 15:52:27 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:50:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:50:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:51:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:52:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:54:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:55:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:56:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 08:56:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 10:51:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 10:51:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 11:47:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 12:29:40 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 12:31:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 12:31:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 15:34:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 15:35:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 20:32:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Nov-2022 20:33:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Nov-2022 08:42:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Nov-2022 10:17:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Nov-2022 10:17:28 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Nov-2022 11:38:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Nov-2022 11:38:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Nov-2022 13:32:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:09:28 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:11:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:11:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:13:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:14:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:14:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 08:14:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 16:09:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Nov-2022 16:10:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Nov-2022 09:46:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Nov-2022 12:24:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Nov-2022 16:07:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Nov-2022 12:10:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Nov-2022 19:26:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Nov-2022 19:26:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Nov-2022 19:32:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[22-Nov-2022 14:50:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[22-Nov-2022 14:58:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[22-Nov-2022 15:12:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[22-Nov-2022 15:15:06 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Nov-2022 16:27:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[26-Nov-2022 15:47:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[26-Nov-2022 15:48:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[01-Dec-2022 21:04:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[01-Dec-2022 21:05:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Dec-2022 18:10:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Dec-2022 18:00:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Dec-2022 11:39:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Dec-2022 12:54:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Dec-2022 21:11:13 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[08-Dec-2022 10:04:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[08-Dec-2022 10:06:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Dec-2022 17:27:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Dec-2022 10:07:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Dec-2022 11:26:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[15-Dec-2022 22:14:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Dec-2022 12:49:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Dec-2022 16:28:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[21-Dec-2022 14:50:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:44:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:44:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:44:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:46:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:47:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 06:49:40 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:41:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:42:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:42:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:43:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:43:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 07:43:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 10:11:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 10:13:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 10:15:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 17:16:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 17:28:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 17:29:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 17:35:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 17:39:20 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:04:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:05:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:18:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:23:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:23:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Dec-2022 18:24:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Dec-2022 11:47:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Dec-2022 11:50:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Dec-2022 11:51:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Dec-2022 14:55:13 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Dec-2022 14:56:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[26-Dec-2022 13:27:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[26-Dec-2022 13:34:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Dec-2022 14:15:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[28-Dec-2022 14:26:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 15:35:27 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:33:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:42:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:44:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:45:13 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:46:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:48:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:49:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 16:53:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[29-Dec-2022 17:14:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 11:12:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 11:21:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 11:21:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 11:25:01 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 11:25:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 12:59:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 16:02:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 16:02:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 16:17:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 16:18:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 17:01:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 17:02:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[30-Dec-2022 17:02:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[31-Dec-2022 09:01:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[31-Dec-2022 09:03:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[31-Dec-2022 14:04:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Jan-2023 08:40:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Jan-2023 11:59:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Jan-2023 12:51:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Jan-2023 19:24:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[04-Jan-2023 09:29:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 07:25:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 07:25:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 07:27:05 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 16:50:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 19:18:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[05-Jan-2023 19:56:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jan-2023 10:47:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jan-2023 10:48:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jan-2023 10:48:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jan-2023 10:50:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jan-2023 12:03:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[09-Jan-2023 11:49:02 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[09-Jan-2023 12:01:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Jan-2023 10:21:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:45:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:48:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:48:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:48:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:50:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:51:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 10:54:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 12:09:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 14:18:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:03:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:05:20 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:05:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:09:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:13:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:13:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:15:03 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:15:10 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:16:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:16:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:17:14 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:17:46 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:22:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Jan-2023 21:22:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Jan-2023 12:18:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Jan-2023 11:57:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Jan-2023 20:45:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 07:53:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 07:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 10:21:08 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 11:09:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 11:43:32 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jan-2023 16:02:10 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:41:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:41:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:43:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:44:00 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:44:04 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:45:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:45:52 America/Argentina/Buenos_Aires] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dioscell/public_html/sistema/moduloCompras/newFactu.php on line 49
+[19-Jan-2023 07:45:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:46:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:47:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:50:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:56:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:57:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:58:13 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-Jan-2023 07:59:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 08:30:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 08:30:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 08:30:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 08:40:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 12:15:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 12:15:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 12:43:44 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 13:22:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 13:23:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[20-Jan-2023 17:26:35 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Jan-2023 12:02:24 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Jan-2023 12:05:36 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:51:31 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:53:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:54:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:56:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:56:38 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:57:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 07:59:14 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:00:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:01:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:03:40 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:03:43 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:04:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:05:52 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:06:42 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:07:40 America/Argentina/Buenos_Aires] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/dioscell/public_html/sistema/moduloCompras/newFactu.php on line 49
+[27-Jan-2023 08:07:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:08:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:09:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:09:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:10:49 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:10:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:10:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:10:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:10:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:11:23 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:12:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Jan-2023 08:16:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[01-Feb-2023 10:23:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[01-Feb-2023 17:23:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Feb-2023 08:53:34 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Feb-2023 08:55:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Feb-2023 17:13:27 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Feb-2023 15:53:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Feb-2023 15:53:10 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Feb-2023 15:53:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Feb-2023 15:53:30 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Feb-2023 15:53:53 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Feb-2023 14:22:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[22-Feb-2023 09:31:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[23-Feb-2023 09:16:12 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Feb-2023 12:06:09 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[25-Feb-2023 11:44:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Mar-2023 15:29:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Mar-2023 15:31:21 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 13:58:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 13:59:25 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 13:59:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 14:00:20 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 14:06:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 15:00:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[03-Mar-2023 15:00:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Mar-2023 13:49:48 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Mar-2023 13:36:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Mar-2023 13:42:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[10-Mar-2023 13:43:22 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Mar-2023 09:22:15 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[13-Mar-2023 14:58:26 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Mar-2023 14:10:07 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Mar-2023 10:34:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Mar-2023 10:34:47 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Mar-2023 10:34:50 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Mar-2023 09:41:56 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-Mar-2023 12:20:37 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Apr-2023 12:33:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[28-Apr-2023 13:52:45 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[19-May-2023 16:45:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[27-May-2023 14:53:16 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[06-Jun-2023 12:15:18 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[14-Jun-2023 17:22:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[16-Jun-2023 09:04:11 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[07-Jul-2023 14:10:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[11-Jul-2023 11:45:29 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[12-Jul-2023 14:42:59 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[17-Jul-2023 17:37:17 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Jul-2023 08:24:41 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Jul-2023 09:02:58 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[24-Jul-2023 13:21:39 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[26-Jul-2023 15:04:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[28-Jul-2023 13:05:33 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Aug-2023 13:16:51 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[02-Aug-2023 13:29:54 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[15-Aug-2023 15:20:57 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[18-Aug-2023 10:43:19 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
+[09-Oct-2023 11:38:55 America/Argentina/Buenos_Aires] PHP Warning:  Invalid argument supplied for foreach() in /home/dioscell/public_html/sistema/moduloCompras/compras.php on line 203
